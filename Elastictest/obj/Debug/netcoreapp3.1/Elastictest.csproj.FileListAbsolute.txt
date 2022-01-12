@@ -1,0 +1,16 @@
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Elastictest.exe
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Elastictest.deps.json
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Elastictest.runtimeconfig.json
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Elastictest.runtimeconfig.dev.json
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Elastictest.dll
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Elastictest.pdb
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.csproj.AssemblyReference.cache
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.AssemblyInfoInputs.cache
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.AssemblyInfo.cs
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.csproj.CoreCompileInputs.cache
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.csproj.CopyComplete
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.dll
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.pdb
+C:\Users\Zehra.Karahan\source\repos\Elastictest\Elastictest\obj\Debug\netcoreapp3.1\Elastictest.genruntimeconfig.cache
